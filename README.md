@@ -119,13 +119,9 @@ Models Evaluated
 
 - Prophet
 
-- Holt-Winters
-
 - XGBoost
 
 - LightGBM
-
-- CatBoost
 
 Evaluation Metrics
 
