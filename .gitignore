@@ -15,11 +15,8 @@ env/
 
 # Data Files
 data/raw/
-data/processed/
-*.csv
 
 # Models
-models/*.pkl
 
 # Logs
 *.log

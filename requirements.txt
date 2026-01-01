@@ -2,6 +2,6 @@ streamlit
 pandas
 numpy
 scikit-learn
-lightgbm
+lightgbm==4.1.0
 joblib
 matplotlib
