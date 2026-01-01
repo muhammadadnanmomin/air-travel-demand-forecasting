@@ -1,6 +1,6 @@
 # Air Travel Demand Forecasting using Time Series & Machine Learning
 
-App URL: https://flight-delay-app.streamlit.app/
+App URL: https://air-travel-demand-forecasting.streamlit.app/
 
 ## Project Overview
 
